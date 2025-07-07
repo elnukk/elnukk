@@ -1,9 +1,83 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elanu - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 <body>
+    <div class="floating-elements">
+        <div class="floating-shape">🌸</div>
+        <div class="floating-shape">🦋</div>
+        <div class="floating-shape">✨</div>
+        <div class="floating-shape">🌙</div>
+    </div>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+    <div class="container">
+        <header class="header">
+            <h1 class="name" onclick="celebrate()">Elanu Karakus</h1>
+            <p class="tagline">19 yo • Stanford CS • 🇹🇷</p>
+        </header>
 
+
+        <div class="card">
+            <h2>About Me</h2>
+            <p> Hi! I'm Elanu, a 19-year-old CS student at Stanford. What I really like about technology is that it gives you an opportunity to turn your ideas into something tangible. I’m currently interning at a tech nonprofit that is building AI tools for smallholder farmers for sustainable farming practices!
+
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>My KWK Journey</h2>
+            <div class="journey-timeline">
+                <div class="timeline-item">
+                    <div class="timeline-year">2022</div>
+                    <div class="timeline-description">Became a KWK scholar and did the virtual webdev camp</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">2024</div>
+                    <div class="timeline-description">One of the finalists for the KWK x Estee Lauder Web Design Challenge</div>
+                </div>
+                <div class="timeline-item">
+                    <div class="timeline-year">And again in 2024</div>
+                    <div class="timeline-description">Started as a community ambassador and created content for socials</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <h2>Fun Facts</h2>
+            <p> 1) I love motorbiking and am currently learning how to drive stickshift to get my driver's license.</p>
+            <p> 2) I have a solo trip booked for this summer and I'm HYPED.</p>
+            <p> 3) My name is made up by my mom and I am the only one in the world with my full name. </p>
+        </div>
+
+
+        <div class="card">
+            <h2>Recent Highlights</h2>
+            <div class="highlights">
+                <div class="highlight-item">
+                    <span class="highlight-icon">✈️</span>
+                    <strong>Travel</strong><br>
+                    Traveled to Portugal with a friend from college!
+                </div>
+                <div class="highlight-item">
+                    <span class="highlight-icon">📚</span>
+                    <strong>Projects</strong><br>
+                    Built a web app for helping kids practice reading
+                </div>
+                <div class="highlight-item">
+                    <span class="highlight-icon">🎵</span>
+                    <strong>Music</strong><br>
+                    Been to 5 concerts this year
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <script src="script.js"></script>
 </body>
 </html>
+
