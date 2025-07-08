@@ -14,12 +14,15 @@
 **Web Development**  
 - Frontend: **React (MERN), Svelte**  
 - Backend: **Node.js, FastAPI, Flask**
+- 
 **Generative AI**  
 - Integrated with **GPT-4**, **Claude**, **Gemini**
 - Built AI workflows using **Make**, **n8n**, and custom logic
+- 
 **Natural Language Processing**  
 - Text preprocessing, tokenization, named entity recognition  
 - Tools: **spaCy**, **NLTK**, **scikit-learn**
+- 
 **Machine Learning & Deep Learning**  
 - Libraries: **PyTorch**, **TensorFlow**, **scikit-learn**  
 - Techniques: classification, regression, embeddings
