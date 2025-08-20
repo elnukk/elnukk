@@ -5,7 +5,6 @@
 ## 🙋‍♀️ About Me
 - 👩‍💻 CS student @ **Stanford University**
 - ☀️ Passionate about **AI** & **full stack development** for social impact  
-- 🌿 Currently interning @ **[Digital Green](https://www.digitalgreen.org/)**
 
 ---
 
