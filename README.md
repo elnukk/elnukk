@@ -1,4 +1,4 @@
-## hi, i'm Elanu 👋
+## hi, i'm elanu 👋
 
 CS @ Stanford (HCI track) building things at the
 intersection of AI and people.
