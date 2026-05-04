@@ -3,9 +3,7 @@
 CS @ Stanford (HCI track) building things at the
 intersection of AI and people.
 
-**into:** AI agents · human-AI interaction · product thinking
-
-**from:** 🇹🇷 → Stanford 
+**into:** human-AI interaction · product thinking
 
 always down to talk HCI or good coffee spots
 
